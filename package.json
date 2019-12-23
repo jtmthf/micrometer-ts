@@ -1,0 +1,15 @@
+{
+  "name": "micrometer-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jmoore",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.3",
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.3"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.15"
+  }
+}
